@@ -40,3 +40,5 @@ This Node.js application allows you to scan QR codes from images using the `qrco
 
 - [qrcode-reader](https://www.npmjs.com/package/qrcode-reader): Library to decode QR codes.
 - [opencv4nodejs](https://www.npmjs.com/package/opencv4nodejs): OpenCV bindings for Node.js.
+
+## Thank you
